@@ -124,6 +124,11 @@ span:hover {
 	color: purple;
 }
 
+iframe {
+  display: block;
+  margin: 100px auto 100px auto;
+}
+
 footer {
   position: fixed;
   width: 100%;
